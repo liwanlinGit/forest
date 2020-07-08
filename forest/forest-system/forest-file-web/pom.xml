@@ -9,8 +9,14 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>forest-system-file-web</artifactId>
-
+    <groupId>cn.forest</groupId>
+	<artifactId>forest-system-file-web</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+    
+    <name>forest-system-file-web</name>
+    <url>http://maven.apache.org</url>
+    
+    
     <dependencies>
         <dependency>
             <groupId>org.springframework.cloud</groupId>

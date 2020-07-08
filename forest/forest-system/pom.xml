@@ -13,6 +13,6 @@
 	<modules>
 		<module>forest-system-server</module>
 		<module>forest-system-web</module>
-		<module>forest-system-file-web</module>
+		<module>forest-file-web</module>
 	</modules>
 </project>
